@@ -1,2 +1,1 @@
-# GitTutorial
-Tutorial git
+La fiesta es muy divertida XD
